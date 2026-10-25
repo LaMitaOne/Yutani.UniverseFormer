@@ -17,13 +17,13 @@ A standalone 3D universe designer built with Raylib and Delphi. Design entire ga
      
 ## Controls     
      
- **Middle Mouse Button** | Orbit camera |
- **Mouse Wheel** | Zoom in/out |
- **WASD / Arrow Keys** | Pan camera target |
- **Left Mouse Button** | Select system / Place template / Drag selected system |
- **+ / - Keys** (next to Backspace) | Move selected system up/down (Y axis) |
- **DEL** | Delete selected system |
- **ESC** | Deselect / Cancel active brush |
+ **Middle Mouse Button** | Orbit camera |     
+ **Mouse Wheel** | Zoom in/out |     
+ **WASD / Arrow Keys** | Pan camera target |     
+ **Left Mouse Button** | Select system / Place template / Drag selected system |     
+ **+ / - Keys** (next to Backspace) | Move selected system up/down (Y axis) |     
+ **DEL** | Delete selected system |     
+ **ESC** | Deselect / Cancel active brush |     
      
 ## Technical Implementation     
      
